@@ -1,2 +1,2 @@
 print("bla lllll")
-print("kkkk")
+print("kk")
